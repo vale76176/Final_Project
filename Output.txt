@@ -1,3 +1,0 @@
-Total defibrillators ordered: 188.0
-Customers ['Charlotte', 'Scott', 'Zafer'] have ordered the minimum quantity of 25.0 defibrillators.
-Customers ['Sam'] did not order the minimum quantity.
